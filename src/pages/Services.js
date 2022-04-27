@@ -14,7 +14,7 @@ const Services = () => {
          
             const data = {
               "AMI":ami,
-              "Security Group ID":instanceTagName,
+              "instance Tag Name":instanceTagName,
               "Instance Type":instance_type,
              "AWS Region":region,
                 "Access Key ID":key,
