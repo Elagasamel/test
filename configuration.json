@@ -2,7 +2,7 @@
   "service": [
     {
       "ami": "ee",
-      "Security Group ID": "ee",
+      "instance-tag-name": "ee",
       "instance_type": "ee",
       "AWS Region": "us-east-2",
       "Access Key ID": "sdvv",
@@ -11,7 +11,7 @@
     },
     {
       "ami": "ffrt",
-      "Security Group ID": "gtrsxtgs",
+      "instance-tag-name": "gtrsxtgs",
       "instance_type": "hdhydt",
       "AWS Region": "us-east-1",
       "Access Key ID": "brunogr",
@@ -19,12 +19,12 @@
       "id": 2
     },
     {
-      "ami": "ami-c998b6b2",
-      "Security Group ID": "hvvguygoghuyf",
-      "instance_type": "t2.micro",
+      "AMI": "ami-c998b6b2",
+      "instance Tag Name": "ec2",
+      "Instance Type": "t2.micro",
       "AWS Region": "us-east-2",
-      "Access Key ID": "vjgoujpoujuftxskobc",
-      "Secret Access Key": "kbiuhoihojkùpmloiuytredtfyguhioplkjhg",
+      "Access Key ID": "POIUYTREZAQSDFGHJKLKJHGFDXCVBN",
+      "Secret Access Key": "POIUYTREZAQSDFGHJKLM%§/.?NBVCXCVBN?./",
       "id": 3
     }
   ],
