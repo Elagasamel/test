@@ -1,0 +1,23 @@
+input,select{
+  width: 50% !important;
+}
+ 
+ button{
+  width: 165px  !important;
+  height: 30px  !important;
+  margin-left: 17px  !important;
+  margin-top: 10px  !important;
+ }
+ button:hover{
+   background-color: rgb(97, 176, 241);
+ }
+ .form-group{
+  margin-top:19px !important
+ }
+ 
+  .container-fluid { 
+    position: absolute;
+  top: 200px; left: 400px;
+    height: 0%;
+  }
+  

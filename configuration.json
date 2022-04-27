@@ -1,0 +1,39 @@
+{
+  "service": [
+    {
+      "ami": "ee",
+      "Security Group ID": "ee",
+      "instance_type": "ee",
+      "AWS Region": "us-east-2",
+      "Access Key ID": "sdvv",
+      "Secret Access Key": "ttttttt",
+      "id": 1
+    },
+    {
+      "ami": "ffrt",
+      "Security Group ID": "gtrsxtgs",
+      "instance_type": "hdhydt",
+      "AWS Region": "us-east-1",
+      "Access Key ID": "brunogr",
+      "Secret Access Key": "bruno123",
+      "id": 2
+    },
+    {
+      "ami": "ami-c998b6b2",
+      "Security Group ID": "hvvguygoghuyf",
+      "instance_type": "t2.micro",
+      "AWS Region": "us-east-2",
+      "Access Key ID": "vjgoujpoujuftxskobc",
+      "Secret Access Key": "kbiuhoihojkùpmloiuytredtfyguhioplkjhg",
+      "id": 3
+    }
+  ],
+  "connection": [
+    {
+      "Access Key ID": "sdvv",
+      "Secret Access Key": "sdv",
+      "AWS Region": "us-east-2",
+      "id": 1
+    }
+  ]
+}

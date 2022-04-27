@@ -1,0 +1,2 @@
+#run json serve
+json-server --watch configuration.json

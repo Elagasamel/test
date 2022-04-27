@@ -1,0 +1,38 @@
+.container{
+    width: 704px  !important;
+    margin-left: -19px !important;
+
+}
+
+  
+.services .lander {
+    padding: 80px 0;
+    text-align: center;
+  }
+  
+.services.lander h1 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+}
+  
+.services .lander p {
+    color: #999;
+}
+.row{
+    width: 795px !important;
+    margin-top: 20px !important;
+}
+.col-6{
+    width: 537px       !important;
+}
+.styleR{
+    margin-left: -191px !important;
+}
+.styleL{
+    margin-left: -92px !important;
+}
+.submit{
+    margin-top: 12px;
+    margin-left: 114px;
+}
+
